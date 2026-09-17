@@ -1,0 +1,6 @@
+{
+  "name": "BizGuard",
+  "description": "Business financial decision & survival platform featuring real-time revenue/expense tracking, break-even analysis, cash runway forecasting, what-if scenario simulations, and financial health scoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
